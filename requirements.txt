@@ -8,6 +8,6 @@ blinker==1.4
 dnspython==2.1.0
 
 # required for tests
-requests==2.25.1
+requests==2.31.0
 Flask-Testing==0.8.1
 locust
